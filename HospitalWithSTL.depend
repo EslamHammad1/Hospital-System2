@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1677258915 source:e:\c++\hospitalwithstl\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
